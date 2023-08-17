@@ -1,12 +1,11 @@
 # About DMFK
 
-DMFK is a combo of two friends, who are into programming. We are doing our bests to create usefull web applications.
+DMFK is duo of two friends, who are into programming. We are doing our bests to create usefull web applications.
 
-We currently have 2 projects:
-## Dead by Stats
-[deadbystats.eu](https://deadbystats.eu/) - statistics tracker for Dead by Daylight - one of the popular games on the Steam platform. This application allows to check current statistics for each game player that currently have public Steam profile and to create account and track your progress every day!
+## DEAD BY STATS
+[deadbystats.eu](https://deadbystats.eu/) - statistics tracker for Dead by Daylight - one of the most popular games on the Steam. Application allows to check current player's statistics, track their progress everyday and creates leaderboards with searched players!
 ![image](https://github.com/DMFK-Dev/.github/assets/75097934/49c519b7-b29b-4185-91c8-5427ff3a2a04)
 
-## Rynek GPU
+## RynekGPU
 [rynekgpu.dmisiek.pl](https://rynekgpu.dmisiek.pl/) - A web application that tracks prices of graphics cards in Polish stores, creating price histories. The service was created due to fluctuations in the market for computer components and is a useful tool for PC enthusiasts.
 ![image](https://github.com/DMFK-Dev/.github/assets/75097934/1c1a4c72-f712-4862-9b6b-b058849be9b0)
