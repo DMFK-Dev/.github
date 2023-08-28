@@ -1,6 +1,7 @@
 # About DMFK
 
-DMFK is duo of two friends, who are into programming. We are doing our bests to create usefull web applications.
+DMFK is duo of two friends, who are into programming. We are doing our bests to create usefull web applications. <br>
+[dmisiek](https://github.com/dmisiek) & [fkrzski](https://github.com/fkrzski)
 
 ## DEAD BY STATS
 [deadbystats.eu](https://deadbystats.eu/) - statistics tracker for Dead by Daylight - one of the most popular games on the Steam. Application allows to check current player's statistics, track their progress everyday and creates leaderboards with searched players!
